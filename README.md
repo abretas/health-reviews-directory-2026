@@ -10,3 +10,6 @@ Independent Clinical Analysis, Efficacy Evaluations & Consumer Safety Reports.
 
 ---
 Contains 1,405 verified supplement and health guides published across our high-authority cloud network.
+
+- 📊 **Google Sheets Live Web Directory (DA 100):** [https://docs.google.com/spreadsheets/d/e/2PACX-1vTYe7JaSVxCZLZA3vcD3IEtWql13YjwK2oNpVPbS5MA5A7Q5ti2-5ivwjgfwIwcX41xYCvcV7DoDJiK/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYe7JaSVxCZLZA3vcD3IEtWql13YjwK2oNpVPbS5MA5A7Q5ti2-5ivwjgfwIwcX41xYCvcV7DoDJiK/pubhtml)
+- 🧪 **Google Colab Public Directory (DA 100):** [https://colab.research.google.com/github/abretas/health-reviews-directory-2026/blob/main/health_reviews_index.ipynb](https://colab.research.google.com/github/abretas/health-reviews-directory-2026/blob/main/health_reviews_index.ipynb)
