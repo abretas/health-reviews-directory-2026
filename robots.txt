@@ -1,4 +1,4 @@
-﻿User-agent: *
+User-agent: *
 Allow: /
 
 Sitemap: https://abretas.github.io/health-reviews-directory-2026/sitemap2.xml
